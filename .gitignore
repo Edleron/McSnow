@@ -22,6 +22,9 @@
 # Visual Studio cache directory
 .vs/
 
+#Published Game
+WebGL Builds/
+
 # Gradle cache directory
 .gradle/
 

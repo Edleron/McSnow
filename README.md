@@ -13,12 +13,7 @@ This README is a guide representing Unity worksheets and sample code.
 ### How do I get set up?
 
 * Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-* And more...
+* git clone 'repoName'
 
 ### Contribution guidelines
 
@@ -29,9 +24,7 @@ This README is a guide representing Unity worksheets and sample code.
 
 * Repo owner or edleron@hotmail.com
 ``` 
-|| -> edleron@hotmail.com
+https://edleron.com
 ```
-
-#### || 
 ``` 
-Ertugrul
+https://play.unity.com/mg/other/webgl-builds-264305

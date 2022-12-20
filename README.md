@@ -2,7 +2,7 @@
 
 ## SNOM MC SNOW BOARDERS GAME
 
-This README is a guide representing Unity worksheets and sample code.
+This README is a guide representing Unity worksheets and sample code.This game is the seconds prototype clone game of edleron. I would like to thank game dev tv for their efforts.
 
 ## What is this repository for? 
 
@@ -13,7 +13,6 @@ This README is a guide representing Unity worksheets and sample code.
 ### How do I get set up?
 
 * Summary of set up
-* git clone 'repoName'
 
 ### Contribution guidelines
 
@@ -26,5 +25,11 @@ This README is a guide representing Unity worksheets and sample code.
 ``` 
 https://edleron.com
 ```
+
 ``` 
-https://play.unity.com/mg/other/webgl-builds-264305
+https://edleron.itch.io/mcsnow
+```
+
+``` 
+https://play.unity.com/mg/other/webgl-builds-2643054
+``` 
